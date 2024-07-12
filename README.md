@@ -1,6 +1,11 @@
 # Career_Chase
 Investigation of how B. Tech students embrace and benefit from emerging technologies in their education.
 
+# Features
+1. Project Report: A detailed document outlining the survey methodology, analysis, and findings.
+2. Excel Sheet of Responses: Raw data collected from the Google survey form and processed data.
+3. Tableau Workbook: Visualizations of the survey results, providing intuitive insights through interactive charts and graphs.
+
 # Problem Statement
 This survey aims to investigate the extent to which B. Tech students are embracing and benefiting from the incorporation of cutting-edge technologies in their educational experience. The study will gather insights into students' familiarity with various emerging technologies, their opinions on the effectiveness of these technologies in enhancing learning, and the challenges they perceive in their adoption. By gathering insights from this demographic, our team seeks to understand how students perceive and utilize cutting-edge technologies in their academic pursuits and daily lives.
 
